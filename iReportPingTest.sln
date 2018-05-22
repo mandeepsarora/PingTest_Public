@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iReportPingTest", "..\users\mandeep.tysons\documents\visual studio 2015\Projects\iReportPingTest\iReportPingTest\iReportPingTest.csproj", "{03DF6786-C97D-4C19-8B17-FA80B3EB0189}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iReportPingTest", "iReportPingTest\iReportPingTest.csproj", "{03DF6786-C97D-4C19-8B17-FA80B3EB0189}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
